@@ -1,0 +1,9 @@
+.ros{
+	width: 800px;
+    height: 300px; 
+    margin: 20px 250px; 
+    background: #ccc;  
+    background-image:url(http://crbvanino.ru/vanino.png), url(https://previews.123rf.com/images/digifuture/digifuture1301/digifuture130100017/17281607-Light-Gray-Artificial-Leather-Texture-Stock-Photo-background.jpg); 
+    background-repeat: no-repeat; 
+    background-position: left;
+}
